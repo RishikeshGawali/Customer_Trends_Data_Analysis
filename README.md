@@ -47,7 +47,7 @@ The main objectives of this project are:
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 1. **Clone the repo**
 ```bash
@@ -70,4 +70,8 @@ cd Customer_Trends_Data_Analysis
 5. **Power BI Dashboard**
 
 * Open the `.pbix` file to explore interactive dashboards (if using Power BI Desktop).
+
+## How to Run
+
+Rishikesh Bharat Gawali
 
