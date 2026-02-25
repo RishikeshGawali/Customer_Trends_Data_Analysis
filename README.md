@@ -71,6 +71,10 @@ cd Customer_Trends_Data_Analysis
 
 * Open the `.pbix` file to explore interactive dashboards (if using Power BI Desktop).
 
+6. **PPT Presentaion**
+
+* .pptx will help you to understand the project clearly
+   
 ## Author
 
 Rishikesh Bharat Gawali
