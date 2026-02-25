@@ -1,6 +1,6 @@
 # Customer_Trends_Data_Analysis
 
-## 📈 Project Overview
+## Project Overview
 
 This project analyzes customer shopping trends using real transactional data to uncover meaningful insights into purchasing behavior, customer segments, and revenue patterns.
 
