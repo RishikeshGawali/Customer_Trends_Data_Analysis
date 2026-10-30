@@ -1,4 +1,3 @@
-
 # Customer_Trends_Data_Analysis
 
 ## Project Overview
